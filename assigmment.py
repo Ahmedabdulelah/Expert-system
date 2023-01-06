@@ -1,6 +1,6 @@
 #Question :#00
 """Write program doing print you are Fullname and department""" 
-print('Name:Ahemd abdulelah Abuzied \n Department:computer science \n Third Year (semester 6)')
+print('Name:Ahemd abdulelah Abuzied abdulrahim \n Department:computer science \n Third Year (semester 6)')
 #############################################################
 
 #Question :#01
